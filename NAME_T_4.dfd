@@ -1,0 +1,90 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+6
+compra
+7
+0
+1
+15
+compra > 200000
+6
+3
+3
+des
+15
+(compra*10)/100
+8
+totaldes
+10
+compra-des
+3
+IVA
+17
+(totaldes*19)/100
+6
+1
+5
+total
+12
+totaldes+IVA
+4
+1
+28
+'Descuento con el 10%:', des
+4
+1
+34
+'Total con descuento: '  ,totaldes
+4
+1
+11
+'IVA: ',IVA
+4
+1
+23
+'Total a pagar: ',total
+13
+6
+3
+3
+des
+15
+(compra*15)/100
+8
+totaldes
+10
+compra-des
+3
+IVA
+17
+(totaldes*19)/100
+6
+1
+5
+total
+12
+totaldes+IVA
+4
+1
+26
+'Descuento del 15%: ' ,des
+4
+1
+35
+'Total con descuento: '  , totaldes
+4
+1
+11
+'IVA: ',IVA
+4
+1
+24
+'Total a pagar: ' ,total
+13
+1

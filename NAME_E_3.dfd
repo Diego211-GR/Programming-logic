@@ -1,0 +1,88 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+producto
+3
+' '
+5
+costo
+1
+0
+6
+estado
+3
+' '
+4
+1
+32
+'indicar el nombre del producto'
+5
+1
+8
+producto
+4
+1
+37
+'el producto indicado es: ', producto
+4
+1
+28
+'indicar costo del producto'
+5
+1
+5
+costo
+4
+1
+21
+'estado del producto'
+5
+1
+6
+estado
+4
+1
+36
+'el estado del producto es: ',estado
+7
+0
+1
+18
+estado='promocion'
+4
+1
+19
+'su descuento es: '
+6
+1
+3
+des
+21
+costo+((costo*3)/100)
+4
+1
+21
+'el aumento es: ',des
+13
+4
+1
+19
+'su descuento es: '
+6
+1
+3
+des
+22
+costo-((costo*10)/100)
+4
+1
+23
+'el descuento es: ',des
+13
+1

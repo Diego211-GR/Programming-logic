@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'Digite el promedio del estudiante: '
+5
+1
+10
+estudiante
+4
+1
+36
+'Digite el precio de la matricula: '
+5
+1
+9
+matricula
+7
+0
+1
+16
+estudiante >= 45
+6
+2
+3
+des
+1
+0
+5
+total
+9
+matricula
+4
+1
+33
+'Sin descuento disponible: ' ,des
+4
+1
+23
+'Total a pagar: ',total
+13
+6
+2
+3
+des
+18
+(matricula*50)/100
+5
+total
+3
+des
+4
+1
+23
+'El descuento es: ',des
+4
+1
+23
+'Total a pagar: ',total
+13
+1

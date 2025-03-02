@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+6
+litros
+7
+0
+1
+12
+litros >= 50
+6
+3
+6
+sindes
+13
+(4800*litros)
+9
+descuento
+1
+0
+5
+total
+6
+sindes
+4
+1
+17
+'Precio: ',sindes
+4
+1
+33
+'No tiene descuento: ', descuento
+4
+1
+24
+'Total a pagar: ' ,total
+13
+6
+3
+6
+sindes
+13
+(4800*litros)
+3
+des
+14
+(sindes*5)/100
+5
+total
+10
+sindes-des
+4
+1
+33
+'Total sin descuento:  ' , sindes
+4
+1
+44
+'Felicidades tienes un Descuento del: ' ,des
+4
+1
+23
+'Total a pagar: ',total
+13
+1

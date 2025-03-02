@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Ingresar los años trabajados: '
+5
+1
+4
+años
+4
+1
+21
+'Digite el salario: '
+5
+1
+7
+salario
+7
+0
+1
+10
+años >= 10
+6
+2
+4
+bono
+9
+salario*0
+5
+total
+12
+bono+salario
+4
+1
+36
+'Su bono es sigue trabajando: ',bono
+4
+1
+46
+'Salario con su bono sigue intentado: ', total
+13
+6
+2
+4
+bono
+16
+(salario*20)/100
+5
+total
+12
+bono+salario
+4
+1
+28
+'SU BONO FELICIDADES: ',bono
+4
+1
+32
+'Salario total con bono: ',total
+13
+1

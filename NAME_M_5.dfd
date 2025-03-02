@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'Monto del prestamo:'
+5
+1
+5
+monto
+7
+0
+1
+16
+monto >= 5000000
+6
+2
+7
+interes
+13
+(monto*5)/100
+4
+pres
+13
+interes+monto
+4
+1
+22
+'Interes 5%: ',interes
+4
+1
+23
+'Total a pagar: ' ,pres
+13
+6
+2
+7
+interes
+13
+(monto*8)/100
+4
+pres
+13
+interes+monto
+4
+1
+22
+'Interes 8%: ',interes
+4
+1
+23
+'Total a pagar: ' ,pres
+13
+1
