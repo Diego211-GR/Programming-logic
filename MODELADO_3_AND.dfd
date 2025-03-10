@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Digite la edad del usuario: '
+5
+1
+4
+edad
+7
+0
+1
+21
+edad>=16 and edad<=17
+7
+0
+1
+21
+edad>=18 and edad<=70
+4
+1
+47
+'Puede obtener su licencia con restricciones: '
+13
+4
+1
+36
+'Puede obtener su licencia normal: '
+13
+13
+4
+1
+44
+'Puede obtener su licencia de aprendizaje: '
+13
+1

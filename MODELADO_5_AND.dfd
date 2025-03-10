@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+'Digite la edad del usuario para saber que membresia le corresponde: '
+5
+1
+4
+edad
+7
+0
+1
+20
+edad>=1 and edad<=17
+7
+0
+1
+21
+edad>=18 and edad<=60
+4
+1
+45
+'Membresia senior con beneficios adicionales'
+13
+4
+1
+20
+'Membresia Estandar'
+13
+13
+4
+1
+19
+'Membresia Junior '
+13
+1

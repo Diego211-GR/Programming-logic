@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'Ingrese edad del cliente: '
+5
+1
+4
+edad
+7
+0
+1
+21
+edad>=1 and edad <=17
+7
+0
+1
+21
+edad>=18 and edad<=60
+4
+1
+49
+'El cliente tiene una promocion de adulto mayor:'
+13
+4
+1
+40
+'El cliente tiene promocion de adulto: '
+13
+13
+4
+1
+38
+'El cliente tiene promocion de niño: '
+13
+1

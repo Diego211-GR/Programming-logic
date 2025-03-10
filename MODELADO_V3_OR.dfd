@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+54
+'Ingrese un pais para saber si es de habla hispana : '
+5
+1
+4
+pais
+7
+0
+1
+120
+pais='españa' or pais='mexico' or pais='argentina' or pais='colombia' or pais='chile' or pais='peru' or pais='venezuela'
+4
+1
+35
+'Este pais no es de habla hispana '
+13
+4
+1
+32
+'Este pais es de habla hispana '
+13
+1
